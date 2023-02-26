@@ -1,0 +1,5 @@
+https://teachablemachine.withgoogle.com/models/Xwx2is9g3/
+
+background-color:#7B3F00; color: #FFFFF0;
+
+<button id="btn" onclick="start()" style=""  > Start </button>

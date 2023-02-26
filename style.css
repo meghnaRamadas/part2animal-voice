@@ -1,0 +1,19 @@
+.footer{
+    
+
+    background-color:#E3963E;
+     bottom: 0;
+    position: fixed;
+    color: rgb(0, 0, 0);
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
+    line-height: 4;
+    text-shadow: 5px 5px 5px rgb(0, 0, 0);
+}
+
+#btn{
+    background-color:#7B3F00;
+     color: #FFFFF0;
+}
